@@ -10,7 +10,8 @@
 
 <body style="background-image: url('h3.jpg');color:tomato">
  <center>
-    <h1>Please select item</h1>
+     <h1>Online Shppping Mart</h1>
+    <h2>Please select item</h2>
     <form action="12the.php" method="post">
         <select name="item" id="">
             <option value="pen">Pen</option>
